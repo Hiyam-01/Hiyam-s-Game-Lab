@@ -1,0 +1,23 @@
+h1{
+    color:red;
+}
+.line{
+    background-color:#9910e3;
+    width:100px;
+    height:10px;
+    margin:auto;
+}
+body{
+    text-align: center;
+}
+
+#s2{
+    background: linear-gradient(#d91427 0%, #3be012 100%)
+}
+#s3{
+    background: linear-gradient(#d91427 0%, #3be012 100%)
+}
+#s1{
+    background: linear-gradient(#d91427 0%, #3be012 100%)
+}
+
